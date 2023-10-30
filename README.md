@@ -1,6 +1,8 @@
 # codealpha_task-surveyFORM
 # Survey Form Web Application
 
+problem statement :- Build a Survey Form web application using HTML and CSS.Include essential questions like first name, last name, age,email, and more, tailored to the specific needs of the business or organization. Survey forms are valuable tools for gathering crucial data from the target audience
+
 This is a simple web application for creating and conducting surveys. The application is built using HTML and CSS and allows you to create custom survey forms tailored to the specific needs of your business or organization. Gathering data from your target audience has never been easier!
 
 ## Table of Contents
