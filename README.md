@@ -51,3 +51,5 @@ You can customize the survey forms by editing the `index.html` file to add, modi
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, please feel free to create a pull request or open an issue in the [GitHub repository](https://github.com/yourusername/survey-form-web-app).
+
+##currently, This survey form is used for a pollution survey . you can free to customize the form structure accordering to yours need. 
